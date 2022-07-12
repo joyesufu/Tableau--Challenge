@@ -19,11 +19,12 @@ A CSV file containg the data used can be found in the data folder.
 
 ## Trip Duration For Gender
 
-![My Image](images/Dashboard(1).PNG)
+![Trip_Duration](images/TripDuration_for_Gender.PNG)
 
 
 ## Dashboard
 
-
+![Dashboard](images/Dashboard(1).PNG)
+![Dashboard](images/Dashboard(2).PNG)
 
 

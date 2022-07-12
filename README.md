@@ -14,7 +14,7 @@ Excel and Tableau
 
 The data source used for this analysis is: https://s3.amazonaws.com/tripdata/index.html
 
-A CSV file containg the data used can be found in the data folder.
+A CSV file containing the data used can be found in the data folder.
 
 
 ## Trip Duration For Gender

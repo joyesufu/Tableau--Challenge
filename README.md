@@ -14,7 +14,9 @@ Excel and Tableau
 
 The data source used for this analysis is: https://s3.amazonaws.com/tripdata/index.html
 
-A CSV file containing the data used can be found in the data folder.
+Used file names: 201401-citibike-tripdata.zip & 201801-citibike-tripdata.csv.zip
+
+Note: CSV files too large for github
 
 
 ## Trip Duration For Gender
